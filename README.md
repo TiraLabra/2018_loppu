@@ -1,5 +1,5 @@
 # Aineopintojen harjoitustyö: Tietorakenteet ja Algoritmit.
-Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/TiraLabra/2018-alku/wiki)
+Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/TiraLabra/2018_loppu/wiki)
 
 **Ohjaaja:**
 * Saska Dönges (saskeli) etunimi@cs.helsinki.fi, saskeli@IRCnet
