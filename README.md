@@ -16,7 +16,7 @@ Demotilaisuuden aikataulu ilmoitetaan myöhemmin kurssilla.
 | **22**<br>13.8.-<br>19.8. |  |  |  |  | **DL4**<br>23:59<br> |  |  |
 | **23**<br>20.8.-<br>26.8. |  |  |  |  | **DL5**<br>23:59<br> |  |  |
 | **24**<br>27.8.-<br>2.9. |  |  |  |  | **DL6**<br>23:59<br> |  |  |
-| **25**<br>3.9.-<br>9.9. |  |  |  |  | **Valmis**<br>23:59 |  |  |
+| **25**<br>3.9.-<br>9.9. |  |  |  | **DEMO**<br>12-14<br>CK111 | **Valmis**<br>23:59 |  |  |
 
 * Lopullinen palautus: Perjantaina 7.9 kello 23:59
 
